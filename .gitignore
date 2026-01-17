@@ -18,8 +18,11 @@ Thumbs.db
 
 # 開発用ファイル（課題提出には不要）
 setup_*.sh
+copy_files.sh
+clean_history.sh
 *.yaml
 DEPLOY.md
 APIキー設定ガイド.md
 設計書.md
+CLEAN_HISTORY.md
 
